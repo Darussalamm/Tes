@@ -1,0 +1,34 @@
+body{
+  font-family:'Poppins',sans-serif;
+}
+
+.jumbotron {
+    padding: 6rem;
+    background-image: url('img/hero-bg.jpg');
+  }
+  #Galery {
+    border-width: 10px 5px 20px 1px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    background-color: #C8C6C2;
+  }
+  section {
+    padding-top: 5rem;
+  }
+  .nav-link {
+     font-size: 1.25em;
+ }
+  .nav-link:active,
+  .nav-link:focus,
+  .nav-link:hover {
+    background-color: #ffffff26;
+ }
+ #contact {
+    border-width: 10px 5px 20px 1px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  #footer{
+    background-color: #C8C6C2;
+  }
+  
